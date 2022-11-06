@@ -20,6 +20,10 @@
     .navinput:checked + .navlinks{
         clip-path: circle(100% at center);
     }
+
+    .hero h1{
+        font-size: 40px;
+    }
 }
 
 @media (max-width: 460px) {

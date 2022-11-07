@@ -52,10 +52,13 @@ li, a{
   color: #00f7ff;
 }
 
-.login-register {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
+.navbar img {
+  width: 300px;
+  height: 100px;
+}
+
+.navbar img:hover {
+  transform: scale(1.1);
 }
 
 .navbar i {

@@ -135,7 +135,7 @@ li, a{
 }
 
 .about h2{
-  font-size: 2em;
+  font-size: 1.5em;
 }
 
 .about p{
@@ -169,6 +169,13 @@ li, a{
   transition: all 0.3s;
 }
 
+#facebook:hover {
+  color: blue;
+}
+
+#wp:hover{
+  color: green;
+}
 .about ul li{
   list-style: none;
 }
